@@ -14,7 +14,10 @@
 ## Description
  * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
  * Admin are able to add in new managers and artists to the db to grow the community!
- ![login](https://user-images.githubusercontent.com/70001770/175972813-4bcb637d-22ed-4ace-8859-87c5f8433afb.PNG)
+#### Login:
+![image](https://user-images.githubusercontent.com/70001770/176023317-889d3ba6-fc1d-47e0-83c8-ef6e9c018bcd.png)
+#### Home:
+![home](https://user-images.githubusercontent.com/70001770/176023174-96a7ce52-2a88-4c7c-9cd6-f294ba36577a.PNG)
 
  
 ## User Stories
@@ -44,13 +47,20 @@
 ## Future Features
  * I would like to limit the view of managers and artists dependent on their assigned role through security
  * I would also like to eventually implement a way for artists and managers to communciate
-## Testing 
+
+## Table/ Wireframe
+#### Tables:
+![image](https://user-images.githubusercontent.com/70001770/176027798-b3b25a5a-6ecd-4405-9c90-66cd9f6bf6e2.png)
+
+#### Database:
+![image](https://user-images.githubusercontent.com/70001770/176025482-dacf4e5e-b8da-4d86-af6f-35da76fde17b.png)
+
+#### Wireframe:
+![wireframe](https://user-images.githubusercontent.com/70001770/176023591-721d3c2b-82a5-438e-89ed-c5e601cd2c01.PNG)
 
 ## Obstacles
 * Spring Security: I had issues developing roles in order to limit access
 ## Questions
 
 Contact me for further inquries: https://github.com/SinceWhenBro
-
-
 
