@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(169,169,169);
+}
+
+table {
+background-color: rgb(255,255,255);
+border-color: #000000;
+}
+
+#nav-title{
+color: rgb(232,232,232);
+}
+
+#pink-button{
+background-color: #EE82EE;
+border-color: #FFFFFF;
+}
+
+#home-button{
+background-color: #EE82EE;
+border-color: #FFFFFF;
+}
+
+#logout-button{
+background-color: #EE82EE;
+border-color: #FFFFFF;
+}
+
+#artist-button{
+background-color: #000000;
+border-color: #FFFFFF;
+}
+
+#manager-button{
+background-color: #000000;
+border-color: #FFFFFF;
+}
+
+
+
