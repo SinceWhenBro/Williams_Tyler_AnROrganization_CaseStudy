@@ -24,6 +24,7 @@
  * As an artist I want to be able to view available managers in order to make connections in the music industry.
  * As a manager I want to be able to view new artists regardless of exposure in order to make connections in the music industry.
  * As an admin I would like to be able to add new artist or managers… and delete/update existing artists and managers.
+ * I would like to have different themes
 
 ## Tools/Technologies
  * Java Springboot
