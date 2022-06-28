@@ -4,10 +4,8 @@
  * [Description](#description)
  * [User Stories](#user-stories)
  * [Tools/Technologies](#tools/technologies)
- * [Installation](#installation-instructions)
  * [Usage](#usage-instructions)
  * [Future Features](#future-features)
- * [Testing](#testing)
  * [Obstacles](#obstacles)
  * [Questions](#questions)
  
