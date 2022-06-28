@@ -16,7 +16,7 @@
  * Admin are able to add in new managers and artists to the db to grow the community!
 
 #### Login:
-![image](https://user-images.githubusercontent.com/70001770/176023317-889d3ba6-fc1d-47e0-83c8-ef6e9c018bcd.png)
+![image](https://user-images.githubusercontent.com/70001770/176082900-058585b5-73ca-4aa2-8c59-b409497cdd36.png)
 
 #### Home:
 ![image](https://user-images.githubusercontent.com/70001770/176082713-b4ee9a03-7879-4187-8342-c10b87b95343.png)
